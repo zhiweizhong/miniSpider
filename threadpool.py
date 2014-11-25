@@ -7,7 +7,7 @@
 This module is a threadpool with message queue
 
  * @file threadpool.py
- * @author zhongzhiwei01(com@baidu.com)
+ * @author zhongzhiwei01
  * @date 2014/07/28 10:46:33
  * @brief 
  * 
