@@ -10,7 +10,7 @@
 """
 This module is used to grab the web pages that meet specific pattern.
 
-Authors: zhongzhiwei(zhongzhiwei01@baidu.com)
+Authors: zhongzhiwei
 Date:    2014/07/22 16:30
 """
 
